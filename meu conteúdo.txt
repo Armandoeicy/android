@@ -1,39 +1,39 @@
-história do mascote do android
+histï¿½ria do mascote do android
 provavelmente voce sabe que o sistema operacional android, mantido pelo google
-é um dos mais utilizados para dispositivos moveis em todo o mundo . mas talves
-voce não saiba que o seu simpático mascote tem um nome e uma historia muito curiosa?
+ï¿½ um dos mais utilizados para dispositivos moveis em todo o mundo . mas talves
+voce nï¿½o saiba que o seu simpï¿½tico mascote tem um nome e uma historia muito curiosa?
 pois acompanhe esse artigo para aprender muita coisa sobrre esse robozinho.
 
-a primeira versão
+a primeira versï¿½o
 
 a primeira tentativa de criar um mascote surgiu em 2007 e veio de um desenvolvedor chamado
-Dan Morril . Ele conta que abriu o linkscape (software livre para vetorização de imagens) e 
-criou sua propria versão de robô . o objectivo era apenas personalizar o sistema apenas para a sua
-equipe , não existia nenhuma solicitação da empresa para a criação de um mascote.
+Dan Morril . Ele conta que abriu o linkscape (software livre para vetorizaï¿½ï¿½o de imagens) e 
+criou sua propria versï¿½o de robï¿½ . o objectivo era apenas personalizar o sistema apenas para a sua
+equipe , nï¿½o existia nenhuma solicitaï¿½ï¿½o da empresa para a criaï¿½ï¿½o de um mascote.
 
 image
 
-essa primeira versão até foi batizada em homenagem ao seu criador . seriam os Dandroids
+essa primeira versï¿½o atï¿½ foi batizada em homenagem ao seu criador . seriam os Dandroids
 
 Surge um novo mascote
 
-a ideia de ter um mascote foi amadurecendo e a missão foi passada para uma profissional da área . a ilustradora Irina Blok . tambem funcionária do google , ficou com a missão de representar o pequeno robô de uma maneira mais agradavel.
+a ideia de ter um mascote foi amadurecendo e a missï¿½o foi passada para uma profissional da ï¿½rea . a ilustradora Irina Blok . tambem funcionï¿½ria do google , ficou com a missï¿½o de representar o pequeno robï¿½ de uma maneira mais agradavel.
 
 image
 
-a ideia principal da irina era represntar tudo graficamente com poucos traços e de forma mais chapada.
-o desenho tambem deveria gerar identificação rápida com que o olha . surgiu então o Bugdroid, o novo mascote do android.
+a ideia principal da irina era represntar tudo graficamente com poucos traï¿½os e de forma mais chapada.
+o desenho tambem deveria gerar identificaï¿½ï¿½o rï¿½pida com que o olha . surgiu entï¿½o o Bugdroid, o novo mascote do android.
 
 image
 
-a principal inspiração para os traços do n ovo bugdroid veio daqueles bonequinhos que ilustram portas de banheiros para indicar o gênero de cada porta , conta a lenda que a artista estava criando em sua mesa no escritório do Google e olhou para o lado dos banheiros e a identificação foi imediata simples, limpo e objectivo.
+a principal inspiraï¿½ï¿½o para os traï¿½os do n ovo bugdroid veio daqueles bonequinhos que ilustram portas de banheiros para indicar o gï¿½nero de cada porta , conta a lenda que a artista estava criando em sua mesa no escritï¿½rio do Google e olhou para o lado dos banheiros e a identificaï¿½ï¿½o foi imediata simples, limpo e objectivo.
 
 video do youtube(the next evolution of android)
 
 
 quer aprender mais?
 
-outro assunto curioso em relação ao androide é que cada versão sempre foi nomeada em  homenagem a um doce, em ordem alfabética a partir da versão 1.5 até a 9.0.
+outro assunto curioso em relaï¿½ï¿½o ao androide ï¿½ que cada versï¿½o sempre foi nomeada em  homenagem a um doce, em ordem alfabï¿½tica a partir da versï¿½o 1.5 atï¿½ a 9.0.
 1.5-cupcake
 1.6-donut
 3.0-edair
@@ -49,14 +49,14 @@ outro assunto curioso em relação ao androide é que cada versão sempre foi nomead
 8.0-orso
 9.0-pie
 
-infelizmente , o android Q não existiu , poi o google resolveu por fim a essa divertida prática e começou a usar numerações , oque deu origem ao android 10.
+infelizmente , o android Q nï¿½o existiu , poi o google resolveu por fim a essa divertida prï¿½tica e comeï¿½ou a usar numeraï¿½ï¿½es , oque deu origem ao android 10.
 
-acesse aqui o site Android History para conhecer a sequeência das versões "adocicadas"e oqe cada uma trouxe para o sistema android.
+acesse aqui o site Android History para conhecer a sequeï¿½ncia das versï¿½es "adocicadas"e oqe cada uma trouxe para o sistema android.
 
-então é isso! espero que voce tenha gostado do nosso artigo com essa curiosidade sobre o sistema android e seu simpático mascote.
+entï¿½o ï¿½ isso! espero que voce tenha gostado do nosso artigo com essa curiosidade sobre o sistema android e seu simpï¿½tico mascote.
 
 
-site criado por Armando José Joaquim
+site criado por Armando Josï¿½ Joaquim
 
 
 
@@ -67,3 +67,4 @@ paleta de cores
 #2fa866
 #1a5c37
 #063d1e
+ meu site: https://armandoeicy.github.io/android/
