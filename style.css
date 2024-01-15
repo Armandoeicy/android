@@ -1,0 +1,133 @@
+@charset "utf-8";
+@font-face{
+    font-family: bebas;
+    src: url("fontes/BebasNeue-Regular.otf") format("opentype"),
+    url("fontes/BebasNeue-Regular.ttf") format("truetype");
+}
+@font-face {
+   font-family: android;
+   src: url("fontes/idroid.otf") format("opentype");
+}
+
+:root{
+ --cor1:#c5ebd6;
+ --cor2:#b3e1ad;
+ --cor3:#3ddc84;
+ --cor4:#2fa866;
+ --cor5:#1a5c37;
+ --cor6:#063d1e;
+ 
+}
+body{
+    background-color: rgba(87, 59, 114, 0.564);
+    margin: auto;
+
+}
+header{
+    background-image: linear-gradient(to top, var(--cor6),var(--cor3));
+font-family: "bebas";
+letter-spacing: 1px;
+margin-bottom: 10px;
+margin: auto;
+}
+header h1{
+    margin-top: -10px;
+    padding-top: 10px;
+    text-align: center;
+}
+header p{
+    text-align: center;
+}
+header a{
+    padding: 10px;
+    text-decoration: none;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-top-right-radius: 30px;
+
+}
+
+main{
+
+    background-color: aliceblue;
+    margin: auto;
+    width: 80%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: -10px;
+    padding: 10px;
+    margin-top: 10px;
+   
+    text-indent: 32px;
+}
+main h1,h2{
+    font-family: "android";
+    color: var(--cor3);
+    text-align: center;
+}
+main p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+aside{
+    background-color: rgba(119, 136, 153, 0.141);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.459);
+  padding: 10px;
+   }
+header a:hover{
+    background-color: var(--cor4);
+    color: yellow;
+}
+.externo::after {
+padding-left: 5px;
+content: "link";
+color: red;
+}
+main img{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    
+}
+main video{
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    max-inline-size: 100%;
+   
+}
+main div{
+
+    background-color: #575e5a5f;
+    margin-left: -10px;
+    margin-right: -10px;
+   
+    
+}
+ul{
+    columns: 2;
+    background-color: #412f8380;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+footer p{
+font: 1em sans-serif;
+text-align: center;
+margin-bottom: -10px;
+color: ghostwhite;
+
+
+}
+footer{
+    background-color: #383d3a;
+    height: 24px;
+    margin-bottom: -10px;
+}
+footer a{
+    color: white;
+}
